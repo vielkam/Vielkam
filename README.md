@@ -3,10 +3,10 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Predicting Patient Re-admission Risk using Machine Learning</b>
-- <a href=""> Under construction</a>
+- <a href="https://pngimg.com/uploads/under_construction/under_construction_PNG42.png"> Under construction</a>
  
 - <b>Medical Image Classification for Disease Detection</b>
-- <a href=""> Under construction</a>
+- <a href="https://pngimg.com/uploads/under_construction/under_construction_PNG42.png"> Under construction</a>
 
 
 
